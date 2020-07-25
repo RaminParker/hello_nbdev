@@ -10,9 +10,9 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: hellonbdev
+      title: hello_nbdev
       url: /core
     output: web
-    title: hellonbdev
+    title: hello_nbdev
   output: web
   title: Sidebar
